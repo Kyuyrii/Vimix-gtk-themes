@@ -7213,8 +7213,8 @@ headerbar.flat button:not(.close):not(.maximize):not(.minimize):not(:hover):not(
 
 #PanelPlug,
 PanelToplevel.background {
-  background-color: #292b2e;
-  color: rgba(255, 255, 255, 0.7);
+  background-color: #212326;
+  color: white;
   font-weight: 500;
 }
 
@@ -8760,6 +8760,14 @@ window.budgie-power-dialog, window.budgie-power-dialog.backgrround.csd, window.b
 
 .budgie-panel box.titlebar.horizontal > button.image-button.titlebutton {
   padding: 0 3px;
+}
+
+.budgie-menu-footer {
+  background-color: #333539;
+}
+
+.budgie-menu-arrow {
+  color: #333539;
 }
 
 /************************
