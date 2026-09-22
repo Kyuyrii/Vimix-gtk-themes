@@ -8766,6 +8766,10 @@ window.budgie-power-dialog, window.budgie-power-dialog.backgrround.csd, window.b
   background-color: #333539;
 }
 
+.budgie-menu-arrow {
+  color: #333539;
+}
+
 /************************
  * LightDM GTK+ Greeter *
  ************************/
